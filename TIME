@@ -1,0 +1,5 @@
+<div class="time-container">
+        <span id="current-time"></span>
+    </div>
+
+    <script src="script.js"></script>	
